@@ -104,21 +104,6 @@ Matplotlib
 Installation
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/VedVar43789/sar-image-classification.git
-cd sar-image-classification
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Download and prepare the dataset (if not already available).
-Running the Project
-To preprocess the dataset and train the model:
-
-Open and run the data_preprocessing.ipynb notebook to apply speckle filtering and prepare the dataset.
-Run the model_training.ipynb notebook to train the model and evaluate its performance.
-Results
-
 
 
 # The following are the key results from the SAR image classification model:
